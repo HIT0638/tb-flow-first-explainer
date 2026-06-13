@@ -1,0 +1,4 @@
+interface:
+  display_name: "TB Flow-First Explainer"
+  short_description: "Explain systems through concrete flows"
+  default_prompt: "Use $tb-flow-first-explainer to explain this concept in tb's preferred flow-first style."
